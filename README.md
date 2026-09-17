@@ -18,16 +18,6 @@ I enjoy exploring new languages and paradigms — from Scala and ReasonML to Pyt
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
 
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [Scala99](https://github.com/CodePracticeLearn/Scala99) | Solutions to 25 classic Scala problems |
-| [SimpleRestAPI](https://github.com/CodePracticeLearn/SimpleRestAPI) | HTTP4s + IO monad REST API |
-| [ScalaCourse](https://github.com/CodePracticeLearn/ScalaCourse) | Functional programming fundamentals in Scala |
-| [RoomLibraryApp](https://github.com/CodePracticeLearn/RoomLibraryApp) | Android app with Room Persistence Library |
-| [MS DSA 100](https://github.com/CodePracticeLearn/MS_DSA_100) | 100 curated DSA problems for Microsoft interviews |
-
 ## 🛒 Resources
 
 [![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=flat&logo=gumroad&logoColor=white)](https://smarika00.gumroad.com/l/vlyllr)
