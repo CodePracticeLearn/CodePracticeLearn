@@ -31,7 +31,6 @@ I enjoy exploring new languages and paradigms — from Scala and ReasonML to Pyt
 ## 🛒 Resources
 
 [![Gumroad](https://img.shields.io/badge/Gumroad-FF90E8?style=flat&logo=gumroad&logoColor=white)](https://smarika00.gumroad.com/l/vlyllr)
-**[MS DSA 100 — Microsoft Interview Prep](https://smarika00.gumroad.com/l/vlyllr)**
 
 ## 📬 Connect with me
 
