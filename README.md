@@ -1,4 +1,4 @@
-# Hi, I'm Smarika 👋
+# Hi 👋
 
 I'm a developer passionate about functional programming, AI Agents, and building clean backend systems.
 I enjoy exploring new languages and paradigms — from Scala and ReasonML to Python and Kotlin.
